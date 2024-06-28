@@ -1,5 +1,5 @@
 
-#import paskages
+#import paskage
 import cv2
 import numpy as np
 
