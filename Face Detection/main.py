@@ -1,4 +1,4 @@
-# Import the OpenCV package
+# Import package
 import cv2
 
 # Load the cascade classifier for detecting faces
